@@ -71,4 +71,8 @@ dashboard visualization.
 
 ---
 
-## Repository Structure
+---
+
+## Author
+**Onifade Oluwagbemiga**
+Data Analytics Intern — DecodeLabs
